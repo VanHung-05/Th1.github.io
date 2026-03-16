@@ -13,7 +13,7 @@
 ## Xem trang web
 
 Bạn có thể truy cập trang GitHub Pages tại đây:  
-- **GitHub Pages**: `https://vanhung-05.github.io/Th1.github.io/`
+- **GitHub Pages**: [https://vanhung-05.github.io/Th1.github.io/](https://vanhung-05.github.io/Th1.github.io/)
 
 ## Cấu trúc thư mục
 
@@ -26,6 +26,6 @@ Bạn có thể truy cập trang GitHub Pages tại đây:
 
 - **Họ tên**: Nguyễn Văn Hùng  
 - **MSSV**: 23668291  
-- **Email**: `nguyenvanhung081005@gmail.com`  
-- **GitHub**: `https://github.com/VanHung-05`
+- **Email**: [nguyenvanhung081005@gmail.com](mailto:nguyenvanhung081005@gmail.com)  
+- **GitHub**: [https://github.com/VanHung-05](https://github.com/VanHung-05)
 
